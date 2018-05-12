@@ -1,0 +1,55 @@
+_repo: The-Parent-s-AssistantStories-for-Children_36132
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Ritchie, Anne Thackeray
+    aliases:
+    - Ritchie, Anne Isabella Thackeray, Lady
+    - Thackeray, Anne Isabella
+    - Thackeray, Miss
+    birthdate: 1837
+    deathdate: 1919
+    gutenberg_agent_id: '34609'
+    url: http://www.gutenberg.org/2009/agents/34609
+    wikipedia: http://en.wikipedia.org/wiki/Anne_Isabella_Thackeray_Ritchie
+  illustrator:
+    agent_name: Hammond, Christine M. Demain, active 1886-1910
+    aliases:
+    - Hammond, Chris
+    - Hammond, C. M. Demain (Christine M. Demain)
+    gutenberg_agent_id: '38092'
+    url: http://www.gutenberg.org/2009/agents/38092
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Edgeworth, Maria
+    alias: Edgeworth, Eliza
+    birthdate: 1767
+    deathdate: 1849
+    gutenberg_agent_id: '630'
+    url: http://www.gutenberg.org/2009/agents/630
+    wikipedia: http://en.wikipedia.org/wiki/Maria_Edgeworth
+description: The orphans; Lazy Lawrence; The False key; Simple Susan;The white pigeon;
+  The birthday present; Eton Montem; Forgive & forget; Waste not, want not; Old Poz;
+  The mimic; The barring out; The bracelets; The little merchants; Tarlton; The basket
+  woman.
+gutenberg_issued: '2011-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36132'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcc 'PZ'
+tableOfContents: Introduction -- Preface -- The orphans -- Lazy Lawrence -- The false
+  key -- Simple Susan -- The white pigeon -- The birthday present -- Eton Montem --
+  Forgive and forget -- Waste not, want not; or, two strings to your bow -- Old Poz
+  -- The mimic -- The barring out; or, party spirit -- The bracelets -- The little
+  merchants -- Tarlton -- The basket-woman.
+title: The Parent's Assistant; Or, Stories for Children
+url: http://www.gutenberg.org/ebooks/36132
