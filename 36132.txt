@@ -6881,7 +6881,7 @@ off. Who _'ave_ we _'ere_? Ha! Mrs. Talbot! Louisa, _'ow_ are ye? I'm so
 vastly glad to see you; but I'm so shocked to _'ear_ of the loss of the
 _Bombay Castle_. Mrs. Talbot, you look but poorly; but this Montem will
 put everybody in spirits. I _'ear_ everybody's to be _'ere_; and my
-brother tells me, 'twill be the finest ever seen at _H_ Eton. Louisa, my
+brother tells me, 'twill be the finest ever seen at _H_Eton. Louisa, my
 dear, I'm sorry I've not a seat for you in my curricle for to-morrow;
 but I've promised Lady Betty; so, you know, 'tis impossible for me.
 
@@ -7683,7 +7683,7 @@ _Farm._ No; but you be not the young Eton jackanapes that I'm a-thinking
 on. I tell you it was this time last year, man; he was a-horseback, I
 tell ye, mounted upon a fine bay hunter, out o' hunting, like.
 
-_Talb._ I tell you 'it was this time last year, man, that I was mounted
+_Talb._ I tell you it was this time last year, man, that I was mounted
 upon a fine bay hunter, out a-hunting.
 
 _Farm._ Zooks! would you argufy a man out of his wits? You won't go for
